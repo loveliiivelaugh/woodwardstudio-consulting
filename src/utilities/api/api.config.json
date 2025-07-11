@@ -1,0 +1,11 @@
+{
+    "paths": {
+        "postChat": "/api/chat/post"
+    },
+    "host": {
+        "baseURL": "http://localhost:5051",
+        "headers": {
+            "Authorization": ""
+        }
+    }
+}
