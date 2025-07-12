@@ -166,18 +166,17 @@ const Consulting: React.FC = () => {
                         </SlideIn>
                         <SlideIn delay={0.3}>
                             <VideoPlayer src={consultingIntroVideo} />
-                            <StepForm />
-                            {/* <Button
+                            <Button
                                 variant="contained"
                                 color="primary"
                                 size="large"
                                 sx={{ borderRadius: 999, textTransform: 'none', px: 4, py: 1.5 }}
-                                href="https://calendly.com/woodward-michael-a/15min"
+                                href="https://booking.woodwardstudio.dev"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
                                 Book My Free Automation Audit
-                            </Button> */}
+                            </Button>
                         </SlideIn>
                     </Container>
                 </Section>
@@ -301,7 +300,7 @@ const Consulting: React.FC = () => {
                                 color="primary"
                                 size="large"
                                 sx={{ borderRadius: 999, textTransform: 'none', px: 4, py: 1.5 }}
-                                href="https://calendly.com/woodward-michael-a/15min"
+                                href="https://booking.woodwardstudio.dev"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
